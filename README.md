@@ -10,6 +10,6 @@ This app uses FIREBASE.
 [Download Now](https://github.com/tanaysarkar0408/messenger/releases)
 
 #Screenshots
-<img src="https://imgur.com/5RUCuw8">
+<img src="https://imgur.com/5RUCuw8.png" width="400">
 
 
