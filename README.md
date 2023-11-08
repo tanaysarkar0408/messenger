@@ -9,7 +9,7 @@ This app uses FIREBASE.
 
 [Download Now](https://github.com/tanaysarkar0408/messenger/releases)
 
-###Screenshots
+### Screenshots
 
 ![](https://github.com/messenger/Gif.gif)
 <img src="https://imgur.com/5RUCuw8.png" width="400"> <img src="https://imgur.com/FqQkEcD.png" width="400"> <br>
