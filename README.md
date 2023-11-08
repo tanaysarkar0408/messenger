@@ -7,6 +7,6 @@ Create your account and CHAT with your friends.<br>
 This app uses FIREBASE.
 
 
-[Download Now](https://github.com/tanaysarkar0408/messenger/blob/master/app-release.apk)
+[Download Now]([https://github.com/tanaysarkar0408/messenger/blob/master/app-release.apk](https://github.com/tanaysarkar0408/messenger/releases/tag/Assets)https://github.com/tanaysarkar0408/messenger/releases/tag/Assets)
 
 
