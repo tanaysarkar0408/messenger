@@ -6,10 +6,11 @@ MESSENGER is a chating app.<br>
 Create your account and CHAT with your friends.<br>
 This app uses FIREBASE.
 
-<br>
+
 [Download Now](https://github.com/tanaysarkar0408/messenger/releases)
-<br>
+
 ###Screenshots
+
 ![](https://github.com/messenger/Gif.gif)
 <img src="https://imgur.com/5RUCuw8.png" width="400"> <img src="https://imgur.com/FqQkEcD.png" width="400"> <br>
 <img src="https://imgur.com/yeMBSQS.png" width="400"> <img src="https://imgur.com/1vmWnWr.png" width="400">
