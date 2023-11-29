@@ -11,7 +11,6 @@ This app uses FIREBASE.
 
 ### Screenshots
 
-![](https://github.com/tanaysarkar0408/messenger/blob/master/Gif.mp4)
 <img src="https://imgur.com/5RUCuw8.png" width="400"> <img src="https://imgur.com/FqQkEcD.png" width="400"> <br>
 <img src="https://imgur.com/yeMBSQS.png" width="400"> <img src="https://imgur.com/1vmWnWr.png" width="400">
 
